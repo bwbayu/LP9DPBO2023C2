@@ -30,12 +30,32 @@ class Indekos merupakan turunan dari class Hunian dan merepresentasikan sebuah k
 ## Dokumentasi
 - Landing Page
 
+![landingpage](https://github.com/bwbayu/LP9DPBO2023C2/assets/100755457/9c17c885-2573-4f7c-9552-864e60ba25f9)
+
+
 - Home page
+
+![home](https://github.com/bwbayu/LP9DPBO2023C2/assets/100755457/ea154d7f-7dc2-41fc-98c0-96328286b73a)
+
 
 - Detail Apartemen
 
+![apartemen](https://github.com/bwbayu/LP9DPBO2023C2/assets/100755457/a89d6483-0a5c-4f9d-b11d-04060ddcbf5a)
+
+
 - Detail Rumah
+
+![rumah](https://github.com/bwbayu/LP9DPBO2023C2/assets/100755457/afcf922f-c2c9-495f-82e3-e151659a6590)
+
 
 - Detail Indekos
 
+![indekos](https://github.com/bwbayu/LP9DPBO2023C2/assets/100755457/428033f9-df23-4e96-a360-46830f893ec3)
+
+
 - Video preview
+
+
+
+https://github.com/bwbayu/LP9DPBO2023C2/assets/100755457/ecca52fb-087e-460b-a70a-e71af45f11f3
+
